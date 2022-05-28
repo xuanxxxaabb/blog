@@ -2,7 +2,7 @@
 home: true
 layout: Blog
 icon: home
-title: 刘云别看
+title: 刘云别叫
 heroImage: /logo.svg
 heroText: 太美丽了理塘 #TODO: 你博客的名称
 heroFullScreen: true
