@@ -2,11 +2,11 @@
 home: true
 layout: Blog
 icon: home
-title: 刘云别叫
+title: 啦啦啦啦啦啦
 heroImage: /logo.svg
 heroText: 太美丽了理塘 #TODO: 你博客的名称
 heroFullScreen: true
-tagline: 哎呀，这不丁真吗，还是看看远处的雪山吧家人们 #TODO: 你可以在这里放置你的口号与标语
+tagline: 哎呀，这不黄宇宁吗，还是看看远处的雪山吧家人们 #TODO: 你可以在这里放置你的口号与标语
 projects:
   - icon: project
     name: 短视频H5 #TODO: 你自己的项目
