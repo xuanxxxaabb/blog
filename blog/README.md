@@ -38,5 +38,5 @@ projects:
   #   desc: 自定义详细介绍
   #   link: https://你的自定义链接
 
-footer: 自定义你的页脚文字 #TODO: 自定义你自己的页脚文字
+footer: hyn在看吗，在看的话给你一拳 #TODO: 自定义你自己的页脚文字
 ---
